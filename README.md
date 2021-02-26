@@ -11,6 +11,14 @@ align-items: center;'
     <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width=200 height=200/>
 </p>
 
+---
+
+## 🌐 Teste a aplicação online!
+
+Ei! Você pode testar a aplicação no Vercel neste **[link](https://nlw4-moveit-three.vercel.app/)**.
+
+---
+
 ## 💡 O que foi desenvolvido?
 
 Nesse projeto foi desenvolvido (através do Next Level Week #4 da Rocketseat) uma aplicação que usa a [técnica de pomodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro) como foco principal. A ideia é bastante simples, o usuário inicia um _timer_ de 25 minutos, do qual o mesmo deve realizar alguma atividade produtiva/que requer atenção durante esse período de tempo e ao final do _timer_ a aplicação manda um desafio físico (que pode envolver o corpo ou os olhos) do qual o usuário deve completar afim de ganhar uma pontuação em XP (que varia de acordo com o desafio). Ao ganhar XP o usuário pode subir de nível e progredir na aplicação. Completando ou falhando o desafio a aplicação reinicia o _timer_ para que um novo desafio seja liberado.
@@ -35,9 +43,11 @@ Se você quer rodar este projeto no seu computador, é muito fácil, siga os pas
 1. Execute $ `git clone` nesse repositório incrível;
 2. Na pasta do projeto, execute $ `yarn install`;
 
-Pronto? Agora é hora de rodar o projeto! Na pasta do projeto, no terminal execute <h2> $ `yarn dev`</h2>
+Pronto? Agora é hora de rodar o projeto! Na pasta do projeto, no terminal execute:
 
-Pronto, agora esse projetão incrível vai estar rodando na sua máquina! 😎
+<strong> $ `yarn dev`</strong>
+
+Pronto! Agora esse projetão incrível vai estar rodando na sua máquina! 😎
 
 ## 🖼️ Screenshots da aplicação
 
