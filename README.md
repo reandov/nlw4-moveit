@@ -1,13 +1,24 @@
 # 🚀 Move.it
 
+<p align='center' 
+style='
+display:flex; 
+justify-content: center; 
+align-items: center;'
+>
+    <img src="https://media.giphy.com/media/BXgfFotA3amW6GjJPj/giphy.gif" width=200 height=200/>
+    <img src="https://media.giphy.com/media/3oKIPavRPgJYaNI97W/giphy.gif" width=220 height=220 style='margin: 4px'/>
+    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width=200 height=200/>
+</p>
+
 ## 💡 O que foi desenvolvido?
 
-Nesse projeto foi desenvolvido uma aplicação que usa a [técnica de pomodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro) como foco da mesma. A ideia é bastante simples. O usuário inica um _timer_ de 25 minutos, do qual o mesmo deve fazer alguma coisa produtiva durante esse período de tempo e ao final do _timer_ a aplicação manda um desafio físico (que pode envolver o corpo ou os olhos) do qual o usuário deve completar afim de ganhar uma pontuação em XP (que varia de acordo com o desafio). Ao ganhar XP o usuário pode subir de nível e progredir na aplicação. Completando ou falhando o desafio a aplicação reinicia o _timer_ para que um novo desafio seja liberado.
+Nesse projeto foi desenvolvido (através do Next Level Week #4 da Rocketseat) uma aplicação que usa a [técnica de pomodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro) como foco principal. A ideia é bastante simples, o usuário inicia um _timer_ de 25 minutos, do qual o mesmo deve realizar alguma atividade produtiva/que requer atenção durante esse período de tempo e ao final do _timer_ a aplicação manda um desafio físico (que pode envolver o corpo ou os olhos) do qual o usuário deve completar afim de ganhar uma pontuação em XP (que varia de acordo com o desafio). Ao ganhar XP o usuário pode subir de nível e progredir na aplicação. Completando ou falhando o desafio a aplicação reinicia o _timer_ para que um novo desafio seja liberado.
 
 ## 💻 Tecnologias
 
 - _Back-End (Intermediário)_: **Next.js**
-- _Front-End Web_: **ReactJS**
+- _Front-End_: **ReactJS**
 
 ## 📂 Outras tecnologias/técnicas
 
@@ -27,3 +38,14 @@ Se você quer rodar este projeto no seu computador, é muito fácil, siga os pas
 Pronto? Agora é hora de rodar o projeto! Na pasta do projeto, no terminal execute <h2> $ `yarn dev`</h2>
 
 Pronto, agora esse projetão incrível vai estar rodando na sua máquina! 😎
+
+## 🖼️ Screenshots da aplicação
+
+<div align='center'>
+    <h3>Home</h3>
+    <img src="https://i.imgur.com/ml3zZOL.png" width=481 height=396 style='margin-bottom:15px'/>
+    <h3>Novo Desafio</h3>
+    <img src="https://i.imgur.com/eKMZJzY.png" width=481 height=396 style='margin-bottom:15px'/>
+    <h3>Level Up</h3>
+    <img src="https://i.imgur.com/IPCeJm3.png" width=481 height=396/>
+</div>
